@@ -21,13 +21,13 @@
 ## 📸 Скриншоти
 
 ### Вікно авторизації
-![Login](AuthorizationWindow.png)
+![Login](screenshots/AuthorizationWindow.png)
 
 ### Головний дашборд
-![Dashboard](MainDashboard.png)
+![Dashboard](screenshots/MainDashboard.png)
 
 ### Висновок ШІ
-![AI Conclusion](ConclusionAI.png)
+![AI Conclusion](screenshots/ConclusionAI.png)
 
 ---
 
